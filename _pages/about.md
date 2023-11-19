@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at City University of Hong Kong (CityU), advised by Prof. Kede Ma.
+I am a Ph.D. student at City University of Hong Kong (CityU), advised by [Prof. Kede Ma](https://kedema.org/).
 
 I am interested in video quality assessment.
 
