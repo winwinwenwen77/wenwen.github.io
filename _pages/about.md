@@ -7,7 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Ph.D. student at City University of Hong Kong (CityU), advised by Prof. Kede Ma.
 
+I am interested in video quality assessment.
+
+I have worked/interned at ByteDance Multimedia Lab, Alibaba Cloud, GF Securities etc.
+
+If you have any ideas you'd like to discuss, please don't hesitate to reach out to me.
 
 A data-driven personal website
 ======
