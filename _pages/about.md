@@ -30,6 +30,12 @@ Visiting Undergrad, Math, UC Berkeley, 2017 Fall.
 
 Working Papers
 ======
+- **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**
+  Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma
+  [arXiv](https://arxiv.org/abs/2307.13981)
+- **Perceptual Quality Assessment of Virtual Reality Videos in the Wild**
+  Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma
+  [arXiv](https://arxiv.org/abs/2206.08751)
 
 
 Services
