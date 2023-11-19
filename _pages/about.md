@@ -11,7 +11,7 @@ I am a Ph.D. student at City University of Hong Kong (CityU), advised by [Prof. 
 
 I am interested in video quality assessment.
 
-I have worked/interned at ByteDance Multimedia Lab, Alibaba Cloud, GF Securities etc.
+I have interned at Alibaba Cloud and GF Securities, and I am currently working as a student researcher at ByteDance Multimedia Lab.
 
 If you have any ideas you'd like to discuss, please don't hesitate to reach out to me.
 
