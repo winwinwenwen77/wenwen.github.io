@@ -16,6 +16,8 @@ I have worked/interned at ByteDance Multimedia Lab, Alibaba Cloud, GF Securities
 If you have any ideas you'd like to discuss, please don't hesitate to reach out to me.
 
 
+
+  
 Education
 ======
 
@@ -28,6 +30,8 @@ B.Sc., Statistics, Sun Yat-sen University, 2015-2019.
 Visiting Undergrad, Math, UC Berkeley, 2017 Fall.
 
 
+
+  
 Working Papers
 ======
 - **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**  
@@ -38,6 +42,8 @@ Working Papers
   [arXiv](https://arxiv.org/abs/2206.08751)
 
 
+
+  
 Services
 ======
 - Teaching Assistant: CS4487 Machine Learning
