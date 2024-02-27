@@ -30,6 +30,14 @@ B.Sc., Statistics, Sun Yat-sen University, 2015-2019.
 Visiting Undergrad, Math, UC Berkeley, 2017 Fall.
 
 
+Papers
+======
+- **Modular Blind Video Quality Assessment (CVPR2024)**  
+  Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma
+  
+- **Learned Scanpaths Aid Blind Panoramic Video Quality Assessment (CVPR2024)**  
+  Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma
+
 
   
 Working Papers
