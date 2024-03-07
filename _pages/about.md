@@ -23,7 +23,7 @@ Education
 
 Ph.D., Computer Science, City University of Hong Kong, 2021.08-present.
 
-M.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.
+M.A.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.
 
 B.Sc., Statistics, Sun Yat-sen University, 2015-2019.
 
@@ -38,6 +38,10 @@ Papers
 - **Learned Scanpaths Aid Blind Panoramic Video Quality Assessment (CVPR2024)**  
   Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma
 
+- **Perceptual Quality Assessment of Virtual Reality Videos in the Wild (TCSVT)**  
+  Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
+  [arXiv](https://arxiv.org/abs/2206.08751)
+
 
   
 Working Papers
@@ -45,10 +49,6 @@ Working Papers
 - **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**  
   Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
   [arXiv](https://arxiv.org/abs/2307.13981)
-- **Perceptual Quality Assessment of Virtual Reality Videos in the Wild**  
-  Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
-  [arXiv](https://arxiv.org/abs/2206.08751)
-
 
 
   
