@@ -41,44 +41,32 @@ Visiting Undergrad, Math, UC Berkeley, 2017 Fall.
 
 Papers
 ======
-<small>  
-  
 - **Modular Blind Video Quality Assessment**  
-  Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma  
-  *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
+  <small>Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma</small>  
+  <small>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.</small>  
 
 - **Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**  
-  Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma  
-  *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
+  <small>Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma</small>  
+  <small>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.</small>  
 
 - **Perceptual Quality Assessment of Virtual Reality Videos in the Wild**  
-  Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
-  *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2024.
-  [arXiv](https://arxiv.org/abs/2206.08751)
-  
-</small>
+  <small>Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma</small>  
+  <small>*IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2024.
+  [arXiv](https://arxiv.org/abs/2206.08751)</small>  
 
   
 Working Papers
-======
-<small>
-  
+====== 
 - **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**  
-  Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
-  [arXiv](https://arxiv.org/abs/2307.13981)
-  
-</small>
+  </small>Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
+  [arXiv](https://arxiv.org/abs/2307.13981)</small>  
 
 
   
 Services
 ======
-<small>
-  
-- Teaching Assistant: CS4487 Machine Learning
-- Teaching Tutor: CS2402 Introduction to Computational Probability Modeling
-
-</small>
+- <small>Teaching Assistant: CS4487 Machine Learning</small>  
+- <small>Teaching Tutor: CS2402 Introduction to Computational Probability Modeling</small>  
 
 
 
