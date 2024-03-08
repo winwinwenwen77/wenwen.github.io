@@ -28,15 +28,21 @@ If you have any ideas you'd like to discuss, please don't hesitate to reach out 
 Education
 ======
 <small>
+  
 Ph.D., Computer Science, City University of Hong Kong, 2021.08-present.  
+  
 M.A.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.  
+
 B.Sc., Statistics, Sun Yat-sen University, 2015-2019.  
+
 Visiting Undergrad, Math, UC Berkeley, 2017 Fall.  
+
 </small>
 
 Papers
 ======
 <small>  
+  
 - **Modular Blind Video Quality Assessment**  
   Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma  
   *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
@@ -49,15 +55,18 @@ Papers
   Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
   *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2024.
   [arXiv](https://arxiv.org/abs/2206.08751)
+  
 </small>
 
   
 Working Papers
 ======
 <small>
+  
 - **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**  
   Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
   [arXiv](https://arxiv.org/abs/2307.13981)
+  
 </small>
 
 
@@ -65,8 +74,10 @@ Working Papers
 Services
 ======
 <small>
+  
 - Teaching Assistant: CS4487 Machine Learning
 - Teaching Tutor: CS2402 Introduction to Computational Probability Modeling
+
 </small>
 
 
