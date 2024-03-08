@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<font size=1>
+<small>
 I am a Ph.D. student at City University of Hong Kong (CityU), advised by [Prof. Kede Ma](https://kedema.org/).
-
+</small>
 I am interested in video quality assessment. You can find my CV [here](https://github.com/winwinwenwen77/wenwen.github.io/blob/master/assets/wenwen_cv.pdf).
 
 I have interned at Alibaba Cloud and GF Securities, and I am currently working as a student researcher at ByteDance Multimedia Lab.
 
 If you have any ideas you'd like to discuss, please don't hesitate to reach out to me.
-</font>
+
 
 
   
