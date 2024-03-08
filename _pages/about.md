@@ -8,27 +8,19 @@ redirect_from:
   - /about.html
 ---
 <small>
-  
 I am a Ph.D. student at City University of Hong Kong (CityU), advised by [Prof. Kede Ma](https://kedema.org/).
-
 </small>
 
 <small>
-  
 I am interested in video quality assessment. You can find my CV [here](https://github.com/winwinwenwen77/wenwen.github.io/blob/master/assets/wenwen_cv.pdf).
-
 </small>
 
-<small>
-  
+<small> 
 I have interned at Alibaba Cloud and GF Securities, and I am currently working as a student researcher at ByteDance Multimedia Lab.
-
 </small>
 
 <small>
-  
 If you have any ideas you'd like to discuss, please don't hesitate to reach out to me.
-
 </small>
 
 
@@ -36,25 +28,19 @@ If you have any ideas you'd like to discuss, please don't hesitate to reach out 
 Education
 ======
 <small>
-
-Ph.D., Computer Science, City University of Hong Kong, 2021.08-present.
-
-M.A.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.
-
-B.Sc., Statistics, Sun Yat-sen University, 2015-2019.
-
-Visiting Undergrad, Math, UC Berkeley, 2017 Fall.
-
+Ph.D., Computer Science, City University of Hong Kong, 2021.08-present.  
+M.A.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.  
+B.Sc., Statistics, Sun Yat-sen University, 2015-2019.  
+Visiting Undergrad, Math, UC Berkeley, 2017 Fall.  
 </small>
 
 Papers
 ======
-</small>
-
+<small>  
 - **Modular Blind Video Quality Assessment**  
   Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma  
   *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
-  
+
 - **Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**  
   Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma  
   *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
@@ -63,18 +49,15 @@ Papers
   Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
   *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2024.
   [arXiv](https://arxiv.org/abs/2206.08751)
-  
 </small>
 
   
 Working Papers
 ======
 <small>
-  
 - **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**  
   Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
   [arXiv](https://arxiv.org/abs/2307.13981)
-
 </small>
 
 
@@ -82,10 +65,8 @@ Working Papers
 Services
 ======
 <small>
-
 - Teaching Assistant: CS4487 Machine Learning
 - Teaching Tutor: CS2402 Introduction to Computational Probability Modeling
-
 </small>
 
 
