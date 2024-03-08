@@ -14,7 +14,7 @@ redirect_from:
 
 
   
-Education
+Educations
 ======
 <small>Ph.D., Computer Science, City University of Hong Kong, 2021.08-present.</small>    
 <small>M.A.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.</small>    
@@ -46,10 +46,10 @@ Working Papers
 
 
   
-Services
+Teachings
 ======
-- <small>Teaching Assistant: CS4487 Machine Learning</small>  
-- <small>Teaching Tutor: CS2402 Introduction to Computational Probability Modeling</small>  
+- <small>CS4487 Machine Learning</small>  
+- <small>CS2402 Introduction to Computational Probability Modeling</small>  
 
 
 
