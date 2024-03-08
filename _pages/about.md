@@ -32,16 +32,16 @@ Visiting Undergrad, Math, UC Berkeley, 2017 Fall.
 
 Papers
 ======
-- **Modular Blind Video Quality Assessment**
+- **Modular Blind Video Quality Assessment**  
+  Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma  
   *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
-  Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma
   
-- **Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**
+- **Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**  
+  Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma  
   *IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
-  Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma
 
 - **Perceptual Quality Assessment of Virtual Reality Videos in the Wild**  
-  Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma
+  Wen Wen, Mu Li, Yiru Yao, Xiangjie Sui, Yabin Zhang, Long Lan, Yuming Fang, Kede Ma  
   *IEEE Transactions on Circuits and Systems for Video Technology* (**TCSVT**), 2024.
   [arXiv](https://arxiv.org/abs/2206.08751)
 
