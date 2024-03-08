@@ -27,17 +27,11 @@ If you have any ideas you'd like to discuss, please don't hesitate to reach out 
   
 Education
 ======
-<small>
-  
-Ph.D., Computer Science, City University of Hong Kong, 2021.08-present.  
-  
-M.A.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.  
+<small>Ph.D., Computer Science, City University of Hong Kong, 2021.08-present.</small>    
+<small>M.A.Sc., Applied Statistics, Sun Yat-sen University, 2019-2021.</small>    
+<small>B.Sc., Statistics, Sun Yat-sen University, 2015-2019.</small>    
+<small>Visiting Undergrad, Math, UC Berkeley, 2017 Fall.</small>   
 
-B.Sc., Statistics, Sun Yat-sen University, 2015-2019.  
-
-Visiting Undergrad, Math, UC Berkeley, 2017 Fall.  
-
-</small>
 
 Papers
 ======
@@ -58,7 +52,7 @@ Papers
 Working Papers
 ====== 
 - **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**  
-  </small>Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
+  <small>Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
   [arXiv](https://arxiv.org/abs/2307.13981)</small>  
 
 
