@@ -38,10 +38,9 @@ Papers
   [arXiv](https://arxiv.org/abs/2206.08751)</small>  
 
   
-Working Papers
-====== 
 - **Analysis of Video Quality Datasets via Design of Minimalistic Video Quality Models**  
-  <small>Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma  
+  <small>Wei Sun, Wen Wen, Xiongkuo Min, Long Lan, Guangtao Zhai, and Kede Ma</small>
+  <small>*IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2024.
   [arXiv](https://arxiv.org/abs/2307.13981)</small>  
 
 
