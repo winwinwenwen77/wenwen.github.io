@@ -26,17 +26,17 @@ Selected Publications
 ======
 - **An Ensemble Approach to Short-form Video Quality Assessment using Multimodal LLM**  
   <small>Wen Wen, Yilin Wang, Neil Birkbeck, and Balu Adsumilli</small>  
-  <small>*IEEE International Conference on Acoustics, Speech, and Signal Processing* (**ICASSP**), 2025.</small>
+  <small>*IEEE International Conference on Acoustics, Speech, and Signal Processing* (**ICASSP**), 2025.
   [arXiv](https://arxiv.org/abs/2412.18060)</small>
 
 - **Modular Blind Video Quality Assessment**  
   <small>Wen Wen, Mu Li, Yabin Zhang, Yiting Liao, Junlin Li, Li Zhang, and Kede Ma</small>  
-  <small>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.</small>
+  <small>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
   [arXiv](https://arxiv.org/abs/2402.19276)</small>
 
 - **Learned Scanpaths Aid Blind Panoramic Video Quality Assessment**  
   <small>Kanglong Fan, Wen Wen, Mu Li, Yifan Peng, and Kede Ma</small>  
-  <small>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.</small>
+  <small>*IEEE Conference on Computer Vision and Pattern Recognition* (**CVPR**), 2024.
   [arXiv](https://arxiv.org/abs/2404.00252)</small>
 
 - **Perceptual Quality Assessment of Virtual Reality Videos in the Wild**  
